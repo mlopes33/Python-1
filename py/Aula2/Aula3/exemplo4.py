@@ -1,0 +1,5 @@
+frutas = ("banana", "maçã", "kiwi")
+listfrutas = list(frutas)
+listfrutas.append("laranja")
+frutas = tuple(listfrutas)
+print(frutas)

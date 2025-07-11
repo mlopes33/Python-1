@@ -1,0 +1,6 @@
+tupla1 = ('maçã','banana','uva')
+tupla2 = (2,3,2,2)
+tupla3 = (true, false, true)
+print(tupla1)
+print(tupla2)
+print(tupla3)
